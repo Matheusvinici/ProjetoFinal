@@ -1,7 +1,7 @@
 Controle de Irrigação Automatizado com Servomotor e LED
 Este projeto consiste em um sistema de controle de irrigação automatizado que utiliza um servomotor para simular o acionamento de uma válvula de irrigação e um LED para indicar o estado do sistema (ligado/desligado). O sistema é implementado utilizando um microcontrolador Raspberry Pi Pico, programado em C, e opera em ciclos de 20 segundos para ligar e desligar a irrigação.
 
-Vídeo:
+Vídeo: https://youtu.be/qCsBTqIZC7U
 
 
 Funcionalidades
